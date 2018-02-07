@@ -1,0 +1,6 @@
+server:
+  context-path: /elitcenk
+  port: 9090
+#jsf:
+#  primefaces:
+#    theme: afterdark
